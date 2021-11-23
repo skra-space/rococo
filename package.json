@@ -2,6 +2,7 @@
     "name": "rococo",
     "displayName": "!rococo",
     "description": "minimal dark theme",
+    "icon": "icon.png",
     "keywords": [
         "theme",
         "minimal",
