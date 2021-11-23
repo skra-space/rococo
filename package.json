@@ -9,7 +9,7 @@
         "rococo",
         "dark"
     ],
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "skra",
     "engines": {
         "vscode": "^1.62.0"
